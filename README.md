@@ -1,1 +1,4 @@
-hellooooo this is readme file
+first run the server 
+go run . 
+then run clients 
+go run . 
